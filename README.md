@@ -49,4 +49,5 @@ CREATE TABLE students (
 INSERT INTO students VALUES (1, 'Sindhu', 20);
 
 SELECT * FROM students;
+##
 [click here to see video](https://www.youtube.com/watch?v=NC5zmQvaqvQ)
